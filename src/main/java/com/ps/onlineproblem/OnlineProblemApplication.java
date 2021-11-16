@@ -8,6 +8,7 @@ public class OnlineProblemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineProblemApplication.class, args);
+
 		System.out.println("Hi Ranjeet Welcome Back");
 
 	}
